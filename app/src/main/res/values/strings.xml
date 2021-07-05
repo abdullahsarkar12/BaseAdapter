@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BaseAdapterProject</string>
+
+    <string-array name="countrylist">
+
+        <item> Bnagladesh</item>
+        <item>Pakistan</item>
+        <item> Srilanka</item>
+        <item>Australia</item>
+        <item>Afganistan</item>
+        <item>Newziland</item>
+        <item>SouthAfrica</item>
+        <item>England</item>
+        <item>Brazil</item>
+        <item>France</item>
+        <item>Syria</item>
+        <item>Portugal</item>
+        <item>Poland</item>
+        <item>Spain</item>
+
+    </string-array>
+
+</resources>
